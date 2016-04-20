@@ -52,10 +52,10 @@ _What are the general outcomes the course designed to achieve? How will they con
 _Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
 
 ·     
-_Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
+~~_Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_~~ __Nope__
 
 ·     
-_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._  
+~~_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._~~  _Um, nah_
 
 ·     
 _Put learning outcomes under categories if you have a long list of outcomes._
