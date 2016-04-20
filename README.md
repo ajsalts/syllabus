@@ -5,19 +5,19 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Michigan State University**
 
-**College**
+**College of Education**
 
 **Unit**
 
-## Course Number: Course Title
+## CEP 811: Technology and Leadership
 
-**Semester Year**
+**Fall 2016**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
+**Instructor: **Dr. Andy Saltarelli**   
+**Office**: OZ  
 **Email**:  
 
 **Phone**:  
@@ -36,9 +36,11 @@ information]
 
 **Course Prerequisite**: _None_
 
-**Course Delivery**: _Online, Blended, Flipped_  
+**Course Delivery**: _Online_  
 
-**Course Description**:  
+**Course Description**: The purpose of this course, broadly speaking, is to develop you as a technology leader.  This is an ambitious goal, one that will be difficult to realize unless we fully understand what we mean by technology, learning, and leadership.  Thus, this class will examine the aims of education, the history/evolution of technology, the principles of leadership, and the intersection of these three elements.  Toward this end, this course pulls from a number of disciplines (in and outside of education) to satisfy the course description:
+New technologies not only have the potential of changing what and how students learn, but they can also alter the task of teaching in significant ways. In this course, we will examine the complex charge of being responsible for managing relationships between technology, teaching and learning. We will look at technology from multiple perspectives to assess its potential benefits and challenges to different audiences. Professional development strategies, project management, planning, evaluation, relationship building, along with the ethical and social implications of technology integration will be examined.
+ 
 
 _In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
 
